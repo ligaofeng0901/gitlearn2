@@ -1,5 +1,4 @@
 class Test {
     
     private String name2;
-
 }
